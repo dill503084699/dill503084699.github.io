@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dill503084699.github.io.dill</id>
+    <id>https://dill503084699.github.io</id>
     <title>Hexo • Posts by &#34;leedcode&#34; category</title>
-    <link href="https://dill503084699.github.io.dill" />
+    <link href="https://dill503084699.github.io" />
     <updated>2025-03-16T03:39:47.108Z</updated>
     <category term="科技" />
     <category term="一般" />
     <category term="工作" />
     <category term="科技s" />
     <entry>
-        <id>https://dill503084699.github.io.dill/post/index%2013.html</id>
+        <id>https://dill503084699.github.io/post/index%2013.html</id>
         <title>leedcode 每日一題</title>
-        <link rel="alternate" href="https://dill503084699.github.io.dill/post/index%2013.html"/>
+        <link rel="alternate" href="https://dill503084699.github.io/post/index%2013.html"/>
         <content type="html">&lt;p&gt;###LeetCode 每日一题：问题标题&lt;br&gt;
 题目描述&lt;br&gt;
 在此部分，详细描述题目要求，包括输入、输出和约束条件。&lt;/p&gt;
