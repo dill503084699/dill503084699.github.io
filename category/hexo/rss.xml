@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Hexo • Posts by &#34;hexo&#34; category</title>
-        <link>https://dill503084699.github.io/dill</link>
+        <link>https://dill503084699.github.io</link>
         <description>sdf</description>
         <language>cn</language>
         <pubDate>Sun, 16 Mar 2025 11:40:03 +0800</pubDate>
@@ -12,9 +12,9 @@
         <category>工作</category>
         <category>科技s</category>
         <item>
-            <guid isPermalink="true">https://dill503084699.github.io/dill/index%2015.html</guid>
+            <guid isPermalink="true">https://dill503084699.github.io/index%2015.html</guid>
             <title>hexo</title>
-            <link>https://dill503084699.github.io/dill/index%2015.html</link>
+            <link>https://dill503084699.github.io/index%2015.html</link>
             <category>科技</category>
             <pubDate>Sun, 16 Mar 2025 11:40:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hexo框架简单介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo框架简单介绍&#34;&gt;#&lt;/a&gt; Hexo 框架简单介绍&lt;/h1&gt;
