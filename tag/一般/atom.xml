@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://dill503084699.github.io</id>
     <title>Hexo • Posts by &#34;一般&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://dill503084699.github.io" />
     <updated>2025-03-16T03:39:54.836Z</updated>
     <category term="科技" />
     <category term="一般" />
     <category term="工作" />
     <category term="科技s" />
     <entry>
-        <id>http://example.com/post/index%2014.html</id>
+        <id>https://dill503084699.github.io/post/index%2014.html</id>
         <title>公仔材料討論製作</title>
-        <link rel="alternate" href="http://example.com/post/index%2014.html"/>
+        <link rel="alternate" href="https://dill503084699.github.io/post/index%2014.html"/>
         <content type="html">&lt;p&gt;### 一、公仔雕塑土分類與特性&lt;br&gt;
 雕塑土大致可分為 油性土（Oil-Based Clay） 和 水性土（Water-Based Clay），此外還有一些 聚合物黏土（Polymer Clay） 及 特殊用途雕塑土。不同材料適用於不同的創作方式，以下是各類土的詳細解析。&lt;/p&gt;
 &lt;p&gt;## 二、各種公仔雕塑土解析&lt;/p&gt;
@@ -266,9 +266,9 @@ Clayette vs. 自调（NSP + 软陶）&lt;/p&gt;
         <updated>2025-03-16T03:39:54.836Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/post/index%2012.html</id>
+        <id>https://dill503084699.github.io/post/index%2012.html</id>
         <title>讀書方法</title>
-        <link rel="alternate" href="http://example.com/post/index%2012.html"/>
+        <link rel="alternate" href="https://dill503084699.github.io/post/index%2012.html"/>
         <content type="html">&lt;p&gt;紀錄著從國中同儕們所使用的讀書技巧與我的學習經驗&lt;/p&gt;
 &lt;p&gt;讀書方法&lt;/p&gt;
 &lt;p&gt;往往簡單的讀書方法就很有效、&lt;/p&gt;
